@@ -10,7 +10,7 @@ namespace SEMANA_1_C_
     {
         static void Main(string[] args)
         {
-            ejer1();
+            ejer2();
             Console.ReadKey();
 
         }
@@ -27,6 +27,18 @@ namespace SEMANA_1_C_
         }
         static void ejer2() 
         {
+            Console.Write("ingrese numero x: ");
+            int x = int.Parse( Console.ReadLine());
+            Console.Write("ingrese numero y: ");
+            int y = int.Parse( Console.ReadLine());
+
+            double resu = (x / y);
+
+            Console.WriteLine("SUMA: " + (x + y));
+            Console.WriteLine("RESTA: " + (x - y));
+            Console.WriteLine("MULTIPLICACION: " + (x * y));
+            Console.WriteLine("DIVISION: " + resu);
+
         }
         static void ejer3()
         {
