@@ -8,6 +8,8 @@ def ejer1():
 
     print(f"\n{nombre}. Bienvenido a FA de {carrera}")
 def ejer2():
+    print("\"\"MATHIAS\"\"")
+def ejer3():
     x = int(input("INGRESE EL VALOR DE X: "))
     y = int(input("INGRESE EL VALOR DE Y: "))
 

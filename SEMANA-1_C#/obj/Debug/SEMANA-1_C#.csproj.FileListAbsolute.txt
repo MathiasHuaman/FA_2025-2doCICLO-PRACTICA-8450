@@ -6,3 +6,11 @@ C:\Users\UPN\Downloads\FA_2025-2DOCICLO\FA_2025-ll\SEMANA-1_C#\obj\Debug\SEMANA-
 C:\Users\UPN\Downloads\FA_2025-2DOCICLO\FA_2025-ll\SEMANA-1_C#\obj\Debug\SEMANA-1_C#.exe
 C:\Users\UPN\Downloads\FA_2025-2DOCICLO\FA_2025-ll\SEMANA-1_C#\obj\Debug\SEMANA-1_C#.pdb
 C:\Users\UPN\Downloads\FA_2025-2DOCICLO\FA_2025-ll\SEMANA-1_C#\obj\Debug\SEMANA-1_C#.exe.config
+C:\Users\UPN\Desktop\FA_SEMANA4\FA_2025-2doCICLO-PRACTICA-8450\SEMANA-1_C#\obj\Debug\SEMANA-1_C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA_SEMANA4\FA_2025-2doCICLO-PRACTICA-8450\SEMANA-1_C#\obj\Debug\SEMANA-1_C#.exe.config
+C:\Users\UPN\Desktop\FA_SEMANA4\FA_2025-2doCICLO-PRACTICA-8450\SEMANA-1_C#\obj\Debug\SEMANA-1_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA_SEMANA4\FA_2025-2doCICLO-PRACTICA-8450\SEMANA-1_C#\obj\Debug\SEMANA-1_C#.exe
+C:\Users\UPN\Desktop\FA_SEMANA4\FA_2025-2doCICLO-PRACTICA-8450\SEMANA-1_C#\obj\Debug\SEMANA-1_C#.pdb
+C:\Users\UPN\Desktop\FA_SEMANA4\FA_2025-2doCICLO-PRACTICA-8450\SEMANA-1_C#\bin\Debug\SEMANA-1_C#.exe.config
+C:\Users\UPN\Desktop\FA_SEMANA4\FA_2025-2doCICLO-PRACTICA-8450\SEMANA-1_C#\bin\Debug\SEMANA-1_C#.exe
+C:\Users\UPN\Desktop\FA_SEMANA4\FA_2025-2doCICLO-PRACTICA-8450\SEMANA-1_C#\bin\Debug\SEMANA-1_C#.pdb

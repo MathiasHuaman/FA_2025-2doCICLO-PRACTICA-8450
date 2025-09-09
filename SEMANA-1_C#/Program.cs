@@ -27,21 +27,23 @@ namespace SEMANA_1_C_
         }
         static void ejer2()
         {
+            Console.WriteLine("\"MATHIAS\"");
+
+        }
+        static void ejer3()
+        {
             Console.Write("ingrese numero x: ");
             int x = int.Parse(Console.ReadLine());
             Console.Write("ingrese numero y: ");
             int y = int.Parse(Console.ReadLine());
 
-            double resu = ((double) x / (double) y);
+            double resu = ((double)x / (double)y);
 
             Console.WriteLine("SUMA: " + (x + y));
             Console.WriteLine("RESTA: " + (x - y));
             Console.WriteLine("MULTIPLICACION: " + (x * y));
             Console.WriteLine("DIVISION: " + resu);
 
-        }
-        static void ejer3()
-        {
 
         }
         static void ejer4()
