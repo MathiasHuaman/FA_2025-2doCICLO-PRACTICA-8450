@@ -6,6 +6,13 @@ def ejer1():
 
     #IMPRIMIR O ESCRIBIR EN LA CONSOLA
 
-    print(f"\n{nombre}. Bienvenido a FA de {carrera}") 
+    print(f"\n{nombre}. Bienvenido a FA de {carrera}")
+def ejer2():
+    x = int(input("INGRESE EL VALOR DE X: "))
+    y = int(input("INGRESE EL VALOR DE Y: "))
 
-ejer1()
+    print("SUMA: ", (x+y))
+    print("RESTA: ", (x-y))
+    print("MULTIPLICACION: ", (x*y))
+    print("DIVISION: ", (x/y))
+ejer2()
